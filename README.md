@@ -14,7 +14,3 @@ The dataset used in the projects was taken from [Kaggle](https://www.kaggle.com/
 - **Average glucose level prediction**. Building and optimizing a regression model for glucose level prediction.
 - **BMI prediction**. Building and optimizing a regression model for BMI prediction.
 - **Stroke model deployment and value**. In this section, model deployment is introduced and the practical usability of the model is discussed.
-
-## Stroke prediction app
-
-The model was deployed using sreamlit. Use the following [link](https://liucijasvink-stroke-prediction-app-streamlit-app-script-y5i2h6.streamlit.app/) to try it out and check whether you or somebody else that you know is at risk of stroke. 
