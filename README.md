@@ -13,4 +13,4 @@ The dataset used in the projects was taken from [Kaggle](https://www.kaggle.com/
 - **Hypertension prediction**. Building and optimizing classification model predicting whether the person has hypertension or not.
 - **Average glucose level prediction**. Building and optimizing a regression model for glucose level prediction.
 - **BMI prediction**. Building and optimizing a regression model for BMI prediction.
-- **Stroke model deployment and value**. In this section, model deployment is introduced and the practical usability of the model is discussed.
+- **Stroke model value**. In this section, the practical usability of the model is discussed.
